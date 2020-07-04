@@ -114,9 +114,8 @@ body{
 }
 
 .advantages-header > h2{
-     font-size: 1.5rem;
+     font-size: 2.2rem;
 }
-
 
 .advantages-container{
      display: flex;
@@ -130,12 +129,12 @@ body{
 }
 
 .first-image-container{
-     background-image: url(img/Big\ Shoes\ Having\ Fun.svg);
+     background-image: url(img/big-shoes8.svg);
      background-size: cover;
 }
 
 .second-image-container{
-     background-image: url(img/Big\ Shoes\ Chatting.svg);
+     background-image: url(img/big-shoes2.svg);
      background-size: cover;
 }
 
@@ -206,6 +205,7 @@ footer > p > a:hover{
           display: flex;
           justify-content: space-between;
           align-items: center;
+          margin-bottom: 40px;
      }
      .second-advantage{
           display: flex;
@@ -229,6 +229,8 @@ footer > p > a:hover{
           align-items: flex-start;    
           justify-content: left; 
           padding-bottom: 30px;
+          margin-bottom: 0;
+
      }
 
      .advantage-description{
@@ -236,6 +238,7 @@ footer > p > a:hover{
           max-width: 650px;
           min-width: 350px;
           margin-left: 0px;
+          margin-top: 10px;
      }
 
      .second-advantage{
@@ -352,6 +355,16 @@ footer > p > a:hover{
           font-size: 1.3rem;
           margin-top: 4vh;
      }
+          
+     .advantages-header{
+          padding-top: 40px;
+          margin-bottom: 40px;
+     }
+          
+     .advantages-header > h2{
+          font-size: 1.6rem;
+     }
+     
 
 }
 
