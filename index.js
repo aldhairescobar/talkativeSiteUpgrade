@@ -1,7 +1,7 @@
 
-const API_KEY = config.GAPI_KEY;
+const API_KEY = "AIzaSyBJmJJmHmJKwnMlfVhUdVUeyXL2TswD684";
 
-const sheetId = config.SheetId;
+const sheetId = "1JSQ3urgcQKvd56-adZbvUZYJXw5AJQMCmiyTHaSHt4U";
 
 
 window.onload = () => {
